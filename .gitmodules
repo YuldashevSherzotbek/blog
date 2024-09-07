@@ -1,0 +1,8 @@
+[submodule "YuldashevSherzotbek.github.io"]
+	path = YuldashevSherzotbek.github.io
+	url = https://github.com/YuldashevSherzotbek/YuldashevSherzotbek.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/YuldashevSherzotbek/YuldashevSherzotbek.github.io.git
+	branch = main
