@@ -153,6 +153,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Обо мне
 
 Юлдашев Шерзотбек - студент Российского Университета Дружбы Народов, обучается на факультете физико-математических и естественных наук. Активно занимаюсь изучением программирования, математики и дизайна. Публикую свои работы, стараюсь уделять хобби как можно больше внимания, но не забываю отдыхать и спать. Хочу чтобы нейросети брали интегралы за меня.
