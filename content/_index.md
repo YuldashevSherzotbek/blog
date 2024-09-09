@@ -39,37 +39,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
-    content:
-      title: Рекомендованные публикации
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Недавние публикации
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Недавнее и Будущее
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
     id: news
     content:
       title: Recent News
